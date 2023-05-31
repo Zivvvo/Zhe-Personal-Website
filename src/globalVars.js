@@ -1,0 +1,1 @@
+export const serverProxy = "http://localhost:5000";
